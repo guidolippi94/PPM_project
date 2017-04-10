@@ -1,0 +1,12 @@
+body {
+    background-repeat: no-repeat;
+    background-image: url('img/head_eventi.jpg');
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+}
+
+#a {
+    width: 250px;
+    height: 50px;
+}
